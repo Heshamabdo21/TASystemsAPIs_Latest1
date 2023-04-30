@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (c) 2023.
+  -->
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite01"  >
+    <test name="Test01">
+        <classes>
+            <class name="SteeringCompanyAPI_TestCases.Test_Policies_Cases">
+            </class>
+        </classes>
+    </test>
+</suite>

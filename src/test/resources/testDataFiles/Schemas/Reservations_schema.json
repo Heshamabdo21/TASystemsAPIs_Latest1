@@ -1,0 +1,218 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "object",
+    "properties": {
+        "bookingStatus": {
+            "type": "string"
+        },
+        "bookingReferenceNo": {
+            "type": "string"
+        },
+        "bookingDate": {
+            "type": "string"
+        },
+        "companyCode": {
+            "type": "string"
+        },
+        "companyName": {
+            "type": "string"
+        },
+        "companyNameAR": {
+            "type": "string"
+        },
+        "routeCode": {
+            "type": "number"
+        },
+        "routeName": {
+            "type": "string"
+        },
+        "routeNameAR": {
+            "type": "string"
+        },
+        "startDate": {
+            "type": "string"
+        },
+        "otaNameArabic": {
+            "type": "string"
+        },
+        "otaNameEnglish": {
+            "type": "string"
+        },
+        "otaCode": {
+            "type": "string"
+        },
+        "totalCommission": {
+            "type": "number"
+        },
+        "vehicleTypes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "vehicleTypeCode": {
+                        "type": "string"
+                    },
+                    "vehicleType": {
+                        "type": "string"
+                    },
+                    "vehicleTypeAR": {
+                        "type": "string"
+                    },
+                    "categories": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "categoryCode": {
+                                    "type": "string"
+                                },
+                                "categoryName": {
+                                    "type": "string"
+                                },
+                                "categoryNameAR": {
+                                    "type": "string"
+                                },
+                                "model": {
+                                    "type": "object",
+                                    "properties": {
+                                        "from": {
+                                            "type": "string"
+                                        },
+                                        "to": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "from",
+                                        "to"
+                                    ]
+                                },
+                                "quantity": {
+                                    "type": "number"
+                                },
+                                "noOfPax": {
+                                    "type": "number"
+                                },
+                                "displayRateInfo": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "amount": {
+                                                "type": "number"
+                                            },
+                                            "description": {
+                                                "type": "string"
+                                            },
+                                            "currencyCode": {
+                                                "type": "string"
+                                            },
+                                            "purpose": {
+                                                "type": "number"
+                                            }
+                                        },
+                                        "required": [
+                                            "amount",
+                                            "description",
+                                            "currencyCode",
+                                            "purpose"
+                                        ]
+                                    }
+                                },
+                                "termsAndConditions": {}
+                            },
+                            "required": [
+                                "categoryCode",
+                                "categoryName",
+                                "categoryNameAR",
+                                "model",
+                                "quantity",
+                                "noOfPax",
+                                "displayRateInfo",
+                                "termsAndConditions"
+                            ]
+                        }
+                    }
+                },
+                "required": [
+                    "vehicleTypeCode",
+                    "vehicleType",
+                    "vehicleTypeAR",
+                    "categories"
+                ]
+            }
+        },
+        "travellerDetails": {
+            "type": "object",
+            "properties": {
+                "details": {
+                    "type": "object",
+                    "properties": {
+                        "passportNo": {
+                            "type": "string"
+                        },
+                        "nationalityCode": {
+                            "type": "string"
+                        },
+                        "firstName": {
+                            "type": "string"
+                        },
+                        "middleName": {},
+                        "lastName": {
+                            "type": "string"
+                        },
+                        "gender": {
+                            "type": "string"
+                        },
+                        "birthDate": {
+                            "type": "string"
+                        },
+                        "phoneNumber": {
+                            "type": "string"
+                        },
+                        "phoneNumberCountryCode": {
+                            "type": "string"
+                        },
+                        "email": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "passportNo",
+                        "nationalityCode",
+                        "firstName",
+                        "middleName",
+                        "lastName",
+                        "gender",
+                        "birthDate",
+                        "phoneNumber",
+                        "phoneNumberCountryCode",
+                        "email"
+                    ]
+                }
+            },
+            "required": [
+                "details"
+            ]
+        }
+    },
+    "required": [
+        "bookingStatus",
+        "bookingReferenceNo",
+        "bookingDate",
+        "companyCode",
+        "companyName",
+        "companyNameAR",
+        "routeCode",
+        "routeName",
+        "routeNameAR",
+        "startDate",
+        "otaNameArabic",
+        "otaNameEnglish",
+        "otaCode",
+        "totalCommission",
+        "vehicleTypes",
+        "travellerDetails"
+    ]
+}

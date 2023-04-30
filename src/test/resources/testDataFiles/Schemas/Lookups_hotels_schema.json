@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$ref": "#/definitions/Welcome7",
+  "definitions": {
+      "Welcome7": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "page": {
+                  "type": "integer"
+              },
+              "size": {
+                  "type": "integer"
+              },
+              "totalPages": {
+                  "type": "integer"
+              },
+              "totalElements": {
+                  "type": "integer"
+              },
+              "content": {
+                  "type": "array",
+                  "items": {
+                      "$ref": "#/definitions/Content"
+                  }
+              }
+          },
+          "required": [
+              "content",
+              "page",
+              "size",
+              "totalElements",
+              "totalPages"
+          ],
+          "title": "Welcome7"
+      },
+      "Content": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "id": {
+                  "type": "integer"
+              },
+              "nameArabic": {
+                  "type": "string"
+              },
+              "nameEnglish": {
+                  "type": "string"
+              },
+              "cityId": {
+                  "type": "integer"
+              },
+              "street": {
+                  "type": "string"
+              },
+              "subStreet": {
+                  "$ref": "#/definitions/SubStreet"
+              },
+              "phone": {
+                  "type": "string"
+              },
+              "isActive": {
+                  "type": "boolean"
+              },
+              "lastUpdated": {
+                  "anyOf": [
+                      {
+                          "type": "string",
+                          "format": "date-time"
+                      },
+                      {
+                          "type": "null"
+                      }
+                  ]
+              },
+              "sectors": {
+                  "type": "null"
+              },
+              "email": {
+                  "type": "string"
+              }
+          },
+          "required": [
+              "cityId",
+              "id",
+              "isActive",
+              "lastUpdated",
+              "nameArabic",
+              "nameEnglish",
+              "phone",
+              "sectors",
+              "street"
+          ],
+          "title": "Content"
+      },
+      "SubStreet": {
+          "type": "string",
+          "enum": [
+              "المنطقة الأولى",
+              "المنطقة الثانية",
+              "المنطقة الثالثة"
+          ],
+          "title": "SubStreet"
+      }
+  }
+}

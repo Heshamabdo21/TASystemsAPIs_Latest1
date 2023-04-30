@@ -1,0 +1,67 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome2",
+    "definitions": {
+        "Welcome2": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "status": {
+                    "type": "integer"
+                },
+                "detail": {
+                    "type": "string"
+                },
+                "errors": {
+                    "anyOf": [
+                        {
+                            "type": "array"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ],
+
+                    "items": {
+                        "$ref": "#/definitions/Error"
+                    }
+                }
+            },
+            "required": [
+                "detail",
+                "errors",
+                "status",
+                "title"
+            ],
+            "title": "Welcome2"
+        },
+        "Error": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "field": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "null"
+                },
+                "code": {
+                    "type": "null"
+                },
+                "detail": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "code",
+                "detail",
+                "field",
+                "title"
+            ],
+            "title": "Error"
+        }
+    }
+}
