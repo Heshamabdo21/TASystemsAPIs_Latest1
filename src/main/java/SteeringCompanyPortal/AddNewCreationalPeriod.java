@@ -126,16 +126,25 @@ public class AddNewCreationalPeriod {
     }
 
     public void AddSteeringOperationalPeriodProgramSetting() throws Exception {
-      //  driver.element().waitToBeReady(LastDateOperationalPeriod);
-       // WebElement LastDateOperationalPeriodTxt = driver.getDriver().findElement(LastDateOperationalPeriod);
-      //  js.executeScript("arguments[0].scrollIntoView();", LastDateOperationalPeriodTxt);
+        //  driver.element().waitToBeReady(LastDateOperationalPeriod);
+        // WebElement LastDateOperationalPeriodTxt = driver.getDriver().findElement(LastDateOperationalPeriod);
+        //  js.executeScript("arguments[0].scrollIntoView();", LastDateOperationalPeriodTxt);
         driver.element().scrollToElement(LastDateOperationalPeriod);
-       // driver.element().getText(LastDateOperationalPeriod);
+        // driver.element().getText(LastDateOperationalPeriod);
         String LastDateOperationalPeriodString = driver.element().getText(LastDateOperationalPeriod).toString();
-        String NewFromDateOperationPeriodSting = DateConverter.AddDayToHijriDate(LastDateOperationalPeriodString);
-        String NewToDateOperationPeriodSting = DateConverter.AddDayToHijriDate(NewFromDateOperationPeriodSting);
-        LocalDate NewFromDateOperationPeriod = DateConverter.HijriDate(NewFromDateOperationPeriodSting);
-        LocalDate NewToDateOperationPeriod = DateConverter.HijriDate(NewToDateOperationPeriodSting);
+        LocalDate LastDateOperationalPeriod = DateConverter.HijriDate(LastDateOperationalPeriodString);
+        LocalDate NewFromDateOperationPeriod, NewToDateOperationPeriod;
+        if (LastDateOperationalPeriod.isBefore(Today)) {
+            NewFromDateOperationPeriod = Today.plusDays(1);
+            NewToDateOperationPeriod = Today.plusDays(2);
+        } else {
+            NewFromDateOperationPeriod = LastDateOperationalPeriod.plusDays(1);
+            NewToDateOperationPeriod = LastDateOperationalPeriod.plusDays(2);
+        }
+        // String NewFromDateOperationPeriodSting = DateConverter.AddDayToHijriDate(LastDateOperationalPeriodString);
+        //   String NewToDateOperationPeriodSting = DateConverter.AddDayToHijriDate(NewFromDateOperationPeriodSting);
+        //   LocalDate NewFromDateOperationPeriod = DateConverter.HijriDate(NewFromDateOperationPeriodSting);
+        //  LocalDate NewToDateOperationPeriod = DateConverter.HijriDate(NewToDateOperationPeriodSting);
 
         driver.element().waitToBeReady(AddOperationalPeriodBtn);
         WebElement AddOperationalPeriod = driver.getDriver().findElement(AddOperationalPeriodBtn);
