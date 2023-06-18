@@ -1,0 +1,6 @@
+[ReportManager] Successfully created attachment 'Video Recording - tearDown' @18-06-2023 10:39:40.0665 AM
+[ReportManager] Successfully created attachment 'Selenium WebDriver Logs - performance' @18-06-2023 10:39:40.0785 AM
+[ReportManager] Successfully created attachment 'Selenium WebDriver Logs - browser' @18-06-2023 10:39:40.0790 AM
+[ReportManager] Successfully created attachment 'Selenium WebDriver Logs - driver' @18-06-2023 10:39:41.0481 AM
+[ReportManager] Successfully Closed Driver. @18-06-2023 10:39:57.0695 AM
+[ReportManager] Driver is already closed. @18-06-2023 10:39:57.0696 AM

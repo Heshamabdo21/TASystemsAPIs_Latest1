@@ -1,0 +1,352 @@
+[INFO ] 2023-06-18 10:38:42.691 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                      Powered by SHAFT Engine v7.1.20230104                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-06-18 10:38:43.444 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-06-18 10:38:43.445 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-06-18 10:38:43.561 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-06-18 10:38:43.990 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-06-18 10:38:44.324 [main] ReportManager - Setting "targetOperatingSystem" property with "WINDOWS".
+[INFO ] 2023-06-18 10:38:44.326 [main] ReportManager - Setting "screenshotParams_screenshotType" property with "Regular".
+[INFO ] 2023-06-18 10:38:44.346 [main] ReportManager - Attempting to run locally on: "WINDOWS | Chrome".
+[INFO ] 2023-06-18 10:38:44.347 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[DEBUG] 2023-06-18 10:38:44.681 [main] ResolutionCache - Resolution chrome=114 in cache (valid until 11:16:21 18/06/2023 EEST)
+[DEBUG] 2023-06-18 10:38:44.681 [main] ResolutionCache - Resolution chrome114=114.0.5735.90 in cache (valid until 10:16:21 19/06/2023 EEST)
+[INFO ] 2023-06-18 10:38:44.682 [main] WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[DEBUG] 2023-06-18 10:38:44.695 [main] WebDriverManager - Driver chromedriver 114.0.5735.90 found in cache
+[INFO ] 2023-06-18 10:38:44.696 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HeshamAbdElhamedGhar\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[WARN ] 2023-06-18 10:38:45.066 [Exec Stream Pumper] ReportManager - Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 31465
+[WARN ] 2023-06-18 10:38:45.066 [Exec Stream Pumper] ReportManager - Only local connections are allowed.
+[WARN ] 2023-06-18 10:38:45.067 [Exec Stream Pumper] ReportManager - Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[WARN ] 2023-06-18 10:38:45.072 [Exec Stream Pumper] ReportManager - ChromeDriver was started successfully.
+[WARN ] 2023-06-18 10:38:45.380 [Exec Stream Pumper] ReportManager - [1687073925.380][WARNING]: Ignoring unrecognized log type: client
+[WARN ] 2023-06-18 10:38:45.380 [Exec Stream Pumper] ReportManager - [1687073925.380][WARNING]: Ignoring unrecognized log type: profiler
+[WARN ] 2023-06-18 10:38:45.381 [Exec Stream Pumper] ReportManager - [1687073925.380][WARNING]: Ignoring unrecognized log type: server
+[WARN ] 2023-06-18 10:38:46.457 [main] ReportManager - Jun 18, 2023 10:38:46 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2023-06-18 10:38:46.458 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 112
+[INFO ] 2023-06-18 10:38:46.475 [main] ReportManager - Successfully Opened: "WINDOWS | Chrome".
+[ERROR] 2023-06-18 10:38:46.478 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2023-06-18 10:38:46.479 [main] AllureLifecycle - Could not stop step: step with uuid ddf6f14b-42fa-4e97-8932-0990ad394ebc not found
+[INFO ] 2023-06-18 10:38:46.723 [main] MonteRecorder - Recording started
+[INFO ] 2023-06-18 10:38:48.865 [main] Utils - [TestNG] Running:
+  C:\Users\HeshamAbdElhamedGhar\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO ] 2023-06-18 10:38:48.913 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-06-18 10:38:48.946 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-06-18 10:38:48.962 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-06-18 10:38:49.240 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                              'SteeringCompanyPortal.AddNewCreationalPeriod.setUp'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-06-18 10:38:49.388 [main] ReportManager - Target URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml"
+[INFO ] 2023-06-18 10:38:49.437 [main] ReportManager - Initial URL: "data:,"
+[INFO ] 2023-06-18 10:38:53.074 [main] ReportManager - File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230618-103852", Target File: "\1687073932889_setUp.gif"".
+[INFO ] 2023-06-18 10:38:53.596 [main] ReportManager - Navigate to url "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml".
+[INFO ] 2023-06-18 10:38:53.724 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                             Test Method: 'SteeringCompanyPortal.AddNewCreationalPeriod.TestAddNewCreationalPeriod'                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-06-18 10:38:53.766 [main] ReportManager - Target URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml"
+[INFO ] 2023-06-18 10:38:53.814 [main] ReportManager - Initial URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml;jsessionid=s6yoNTY1A-aqDhGgzYnyocqL_GOwVqpXyC6AupuC.ticportal-site-6b44b54b5d-vnbvz?dswid=4587"
+[INFO ] 2023-06-18 10:38:54.896 [main] ReportManager - Navigate to url "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml".
+[INFO ] 2023-06-18 10:38:55.629 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:38:55.671 [main] ReportManager - Click "تسجيل الدخول".
+[INFO ] 2023-06-18 10:38:57.120 [main] ReportManager - Waiting for element to be present; elementLocator "By.id: loginForm:j_username", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:38:57.539 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_username)" against "By.id: loginForm:j_username".
+[INFO ] 2023-06-18 10:38:58.325 [main] ReportManager - Type "1199900000" into "By.id: loginForm:j_username".
+[INFO ] 2023-06-18 10:38:58.354 [main] ReportManager - Waiting for element to be present; elementLocator "By.id: loginForm:j_password", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:38:58.767 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_password)" against "By.id: loginForm:j_password".
+[INFO ] 2023-06-18 10:38:59.437 [main] ReportManager - Type "123" into "By.id: loginForm:j_password".
+[INFO ] 2023-06-18 10:38:59.453 [main] ReportManager - Waiting for element to be present; elementLocator "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:38:59.842 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@id='loginForm:rememberme']/div[2]/span)" against "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span".
+[INFO ] 2023-06-18 10:39:00.367 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:00.403 [main] ReportManager - Click "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span".
+[INFO ] 2023-06-18 10:39:00.437 [main] ReportManager - Waiting for element to be present; elementLocator "By.xpath: //*[@id='loginForm']//button[1]", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:39:00.908 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //*[@id='loginForm']//button[1])" against "دخول".
+[INFO ] 2023-06-18 10:39:01.394 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:01.439 [main] ReportManager - Click "دخول".
+[INFO ] 2023-06-18 10:39:01.474 [main] ReportManager - Waiting for element to be present; elementLocator "By.xpath: //div[@id='loginForm:auth-panel']//input", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:39:02.338 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@id='loginForm:auth-panel']//input)" against "By.xpath: //div[@id='loginForm:auth-panel']//input".
+[INFO ] 2023-06-18 10:39:02.981 [main] ReportManager - Type "1" into "By.xpath: //div[@id='loginForm:auth-panel']//input".
+[INFO ] 2023-06-18 10:39:03.007 [main] ReportManager - Waiting for element to be present; elementLocator "By.xpath: //*[@id='loginForm']//button[1]", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:39:03.420 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //*[@id='loginForm']//button[1])" against "دخول".
+[INFO ] 2023-06-18 10:39:04.013 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:04.061 [main] ReportManager - Click "دخول".
+[INFO ] 2023-06-18 10:39:05.579 [main] ReportManager - Click and hold "By.xpath: //body/div[1]/div[1]/div[1]".
+[INFO ] 2023-06-18 10:39:06.218 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:06.263 [main] ReportManager - Click "Toggle Menu".
+[INFO ] 2023-06-18 10:39:06.877 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:06.929 [main] ReportManager - Click "By.xpath: //*[@class='layout-menu']/li[5]/a/span[1]".
+[INFO ] 2023-06-18 10:39:07.571 [main] ReportManager - Scroll to element "By.xpath: //*[@class='layout-menu']/li[5]/ul[@role='menu']/li[1]/a/span[1]".
+[INFO ] 2023-06-18 10:39:08.147 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:08.194 [main] ReportManager - Click "By.xpath: //*[@class='layout-menu']/li[5]/ul[@role='menu']/li[1]/a/span[1]".
+[INFO ] 2023-06-18 10:39:08.704 [main] ReportManager - Scroll to element "By.xpath: //ul/li[5]/ul/li[1]/ul/li[8]//span[1]".
+[INFO ] 2023-06-18 10:39:09.138 [main] ReportManager - Performed Click using JavaScript with exit result "null".
+[INFO ] 2023-06-18 10:39:09.138 [main] ReportManager - If the report is showing that the click passed but you observe that no action was taken, we recommend trying a different element locator.
+[INFO ] 2023-06-18 10:39:09.139 [main] ReportManager - Click "By.xpath: //ul/li[5]/ul/li[1]/ul/li[8]//span[1]".
+[INFO ] 2023-06-18 10:39:10.084 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:10.136 [main] ReportManager - Click "By.xpath: //*[@id='primetable_data']/tr[last()]/td[last()]//span[2]".
+[INFO ] 2023-06-18 10:39:10.175 [main] ReportManager - Waiting for element to be present; elementLocator "By.xpath: //div[20]/ul/li[2]/a/span", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:39:10.581 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[20]/ul/li[2]/a/span)" against "By.xpath: //div[20]/ul/li[2]/a/span".
+[INFO ] 2023-06-18 10:39:11.125 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:11.164 [main] ReportManager - Click "By.xpath: //div[20]/ul/li[2]/a/span".
+[INFO ] 2023-06-18 10:39:12.963 [main] ReportManager - Scroll to element "14/11/1444".
+[INFO ] 2023-06-18 10:39:13.304 [main] ReportManager - Get text "14/11/1444" from "14/11/1444".
+[INFO ] 2023-06-18 10:39:13.325 [main] ReportManager - Waiting for element to be present; elementLocator "By.xpath: //tr/th[last()]//button", isExpectedToBeVisible"true"...
+[INFO ] 2023-06-18 10:39:13.682 [main] ReportManager - Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //tr/th[last()]//button)" against " اضافة فترة زمنية".
+[INFO ] 2023-06-18 10:39:14.264 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:15.329 [main] ReportManager - Performed Click using JavaScript with exit result "null".
+[INFO ] 2023-06-18 10:39:15.329 [main] ReportManager - If the report is showing that the click passed but you observe that no action was taken, we recommend trying a different element locator.
+[INFO ] 2023-06-18 10:39:15.331 [main] ReportManager - Click " اضافة فترة زمنية".
+[INFO ] 2023-06-18 10:39:17.312 [main] ReportManager - Type "فترة تشغيل جديدة" into "إسم الفترة".
+[INFO ] 2023-06-18 10:39:17.829 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:17.926 [main] ReportManager - Click "تاريخ بداية الفترة الزمنية للبرامج *".
+[INFO ] 2023-06-18 10:39:18.534 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:18.596 [main] ReportManager - Click "عرض شهر آخر".
+[INFO ] 2023-06-18 10:39:19.493 [main] ReportManager - Select "12/1444" from "عرض شهر آخر".
+[INFO ] 2023-06-18 10:39:20.109 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:20.152 [main] ReportManager - Click "1".
+[INFO ] 2023-06-18 10:39:20.745 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:20.806 [main] ReportManager - Click "تاريخ نهاية الفترة الزمنية للبرامج *".
+[INFO ] 2023-06-18 10:39:21.370 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:21.420 [main] ReportManager - Click "عرض شهر آخر".
+[INFO ] 2023-06-18 10:39:22.188 [main] ReportManager - Select "12/1444" from "عرض شهر آخر".
+[INFO ] 2023-06-18 10:39:22.806 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:22.844 [main] ReportManager - Click "2".
+[INFO ] 2023-06-18 10:39:23.518 [main] ReportManager - Type "10" into "القيمة*".
+[INFO ] 2023-06-18 10:39:24.041 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:24.099 [main] ReportManager - Click "اضافة خصائص للفترة".
+[INFO ] 2023-06-18 10:39:24.757 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:24.804 [main] ReportManager - Click "By.id: rmmId_label".
+[INFO ] 2023-06-18 10:39:25.397 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:25.446 [main] ReportManager - Click "جدة - مكة - مدينة - مطار المدينة مع الحجر المؤسسي".
+[INFO ] 2023-06-18 10:39:25.928 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:25.974 [main] ReportManager - Click "By.id: busType_label".
+[INFO ] 2023-06-18 10:39:26.521 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:26.568 [main] ReportManager - Click "فان".
+[INFO ] 2023-06-18 10:39:26.984 [main] ReportManager - Scroll to element "الحد الادنى لسعر المركبة*".
+[INFO ] 2023-06-18 10:39:27.452 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:27.490 [main] ReportManager - Click "By.xpath: //*[@id='category']/div[1]/div[1]/div/div[2]".
+[INFO ] 2023-06-18 10:39:28.028 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:28.064 [main] ReportManager - Click "By.xpath: //*[@id='category']/div[1]/div[2]/div/div[2]".
+[INFO ] 2023-06-18 10:39:28.590 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-06-18 10:39:28.629 [main] ReportManager - Click "By.xpath: //*[@id='category']/div[2]/div/div/div[2]".
+[INFO ] 2023-06-18 10:39:29.043 [main] ReportManager - Scroll to element "الحد الادنى لسعر المركبة*".
+[INFO ] 2023-06-18 10:39:29.583 [main] ReportManager - Type "9" into "اقل عدد مقاعد*".
+[INFO ] 2023-06-18 10:39:30.180 [main] ReportManager - Type "11" into "اكبر عدد مقاعد*".
+[ERROR] 2023-06-18 10:39:30.471 [main] ReportManager - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d40cfb464b2eac48e39f32bab1756b73, screenshot {}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\HESHAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54657}, networkConnectionEnabled: false, pageLoadStrategy: none, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54657/devtoo..., se:cdpVersion: 114.0.5735.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 30000, script: 30000}, unhandledPromptBehavior: accept and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d40cfb464b2eac48e39f32bab1756b73
+ java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+ java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+ java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+ java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+ java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+ org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+ org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+ org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+ org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+ org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:318)
+ com.shaft.gui.internal.image.ScreenshotManager.takeViewportScreenshot(ScreenshotManager.java:233)
+ com.shaft.gui.internal.image.ScreenshotManager.takeScreenshot(ScreenshotManager.java:436)
+ com.shaft.gui.internal.image.ScreenshotManager.internalCaptureScreenShot(ScreenshotManager.java:374)
+ com.shaft.gui.internal.image.ScreenshotManager.captureScreenShot(ScreenshotManager.java:121)
+ com.shaft.gui.element.internal.ElementActionsHelper.takeScreenshot(ElementActionsHelper.java:590)
+ com.shaft.gui.element.internal.ElementActionsHelper.createReportAttachments(ElementActionsHelper.java:1015)
+ com.shaft.gui.element.internal.ElementActionsHelper.reportActionResult(ElementActionsHelper.java:1053)
+ com.shaft.gui.element.internal.ElementActionsHelper.failAction(ElementActionsHelper.java:950)
+ com.shaft.gui.element.internal.ElementActionsHelper.failAction(ElementActionsHelper.java:887)
+ com.shaft.gui.element.internal.FluentElementActions.type(FluentElementActions.java:852)
+ SteeringCompanyPortal.AddNewCreationalPeriod.AddSteeringOperationalPeriodProgramSetting(AddNewCreationalPeriod.java:183)
+ SteeringCompanyPortal.AddNewCreationalPeriod.TestAddNewCreationalPeriod(AddNewCreationalPeriod.java:261)
+ java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.base/java.lang.reflect.Method.invoke(Method.java:568)
+ org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+ org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+ org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+ org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+ org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+ org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+ org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+ org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+ java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+ org.testng.TestRunner.privateRun(TestRunner.java:848)
+ org.testng.TestRunner.run(TestRunner.java:621)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+ org.testng.SuiteRunner.run(SuiteRunner.java:336)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+ org.testng.TestNG.runSuites(TestNG.java:1114)
+ org.testng.TestNG.run(TestNG.java:1082)
+ com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+ com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+[INFO ] 2023-06-18 10:39:30.488 [main] ReportManager - Successfully created attachment 'Element Action Exception - Type - Stacktrace'
+[INFO ] 2023-06-18 10:39:30.557 [main] ReportManager - Successfully created attachment 'Animated Gif - TestAddNewCreationalPeriod'
+[INFO ] 2023-06-18 10:39:30.561 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setUp'
+[INFO ] 2023-06-18 10:39:30.568 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: TestAddNewCreationalPeriod'
+[INFO ] 2023-06-18 10:39:30.619 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Starting execution of tear down configuration method                                              
+                                             'SteeringCompanyPortal.AddNewCreationalPeriod.tearDown'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-06-18 10:39:30.751 [main] MonteRecorder - Recording finished to C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.avi
+[INFO ] 2023-06-18 10:39:30.753 [main] RecordingUtils - No jenkinsUrl variable found.
+[INFO ] 2023-06-18 10:39:30.753 [main] RecordingUtils - Video recording: C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.avi
+[DEBUG] 2023-06-18 10:39:30.769 [main] DefaultFFMPEGLocator - Os name is <windows 11> isWindows: true isMac: false
+[DEBUG] 2023-06-18 10:39:30.769 [main] DefaultFFMPEGLocator - Jave temp folder exists in <C:\Users\HESHAM~1\AppData\Local\Temp\jave>
+[DEBUG] 2023-06-18 10:39:30.770 [main] DefaultFFMPEGLocator - Executable path: C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe
+[DEBUG] 2023-06-18 10:39:30.770 [main] DefaultFFMPEGLocator - Executable exists in <C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe>
+[DEBUG] 2023-06-18 10:39:30.770 [main] DefaultFFMPEGLocator - ffmpeg executable found: C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe
+[DEBUG] 2023-06-18 10:39:30.772 [main] DefaultFFMPEGLocator - Os name is <windows 11> isWindows: true isMac: false
+[DEBUG] 2023-06-18 10:39:30.773 [main] DefaultFFMPEGLocator - Jave temp folder exists in <C:\Users\HESHAM~1\AppData\Local\Temp\jave>
+[DEBUG] 2023-06-18 10:39:30.773 [main] DefaultFFMPEGLocator - Executable path: C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe
+[DEBUG] 2023-06-18 10:39:30.773 [main] DefaultFFMPEGLocator - Executable exists in <C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe>
+[DEBUG] 2023-06-18 10:39:30.773 [main] DefaultFFMPEGLocator - ffmpeg executable found: C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe
+[DEBUG] 2023-06-18 10:39:30.795 [main] ProcessWrapper - About to execute C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe -i C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.avi -movflags faststart -acodec libvorbis -f mp4 -y C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.mp4 -hide_banner
+[DEBUG] 2023-06-18 10:39:30.805 [main] ProcessWrapper - About to execute C:\Users\HESHAM~1\AppData\Local\Temp\jave\ffmpeg-amd64-3.3.1.exe -i C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.avi -hide_banner
+[DEBUG] 2023-06-18 10:39:30.888 [main] MultimediaObject - Output line: Input #0, avi, from 'C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.avi':
+[DEBUG] 2023-06-18 10:39:30.891 [main] MultimediaObject - Output line:   Duration: 00:00:43.96, start: 0.000000, bitrate: 2057 kb/s
+[DEBUG] 2023-06-18 10:39:30.891 [main] MultimediaObject - Output line:   Stream #0:0: Video: tscc (tscc / 0x63637374), bgr24, 1536x864, 2055 kb/s, 24 fps, 24 tbr, 24 tbn, 24 tbc
+[DEBUG] 2023-06-18 10:39:30.893 [main] MultimediaObject - Output line: At least one output file must be specified
+[DEBUG] 2023-06-18 10:39:30.893 [main] MultimediaObject - Output line: null
+[DEBUG] 2023-06-18 10:39:30.895 [main] ConversionOutputAnalyzer - Input Line (1): <Input #0, avi, from 'C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.avi':>
+[DEBUG] 2023-06-18 10:39:30.896 [main] ConversionOutputAnalyzer - Input Line (2): <  Duration: 00:00:43.96, start: 0.000000, bitrate: 2057 kb/s>
+[DEBUG] 2023-06-18 10:39:30.896 [main] ConversionOutputAnalyzer - Input Line (3): <  Stream #0:0: Video: tscc (tscc / 0x63637374), bgr24, 1536x864, 2055 kb/s, 24 fps, 24 tbr, 24 tbn, 24 tbc>
+[DEBUG] 2023-06-18 10:39:30.896 [main] ConversionOutputAnalyzer - Input Line (4): <Stream mapping:>
+[DEBUG] 2023-06-18 10:39:30.896 [main] ConversionOutputAnalyzer - Input Line (5): <  Stream #0:0 -> #0:0 (tscc (camtasia) -> h264 (libx264))>
+[DEBUG] 2023-06-18 10:39:30.896 [main] ConversionOutputAnalyzer - Input Line (6): <Press [q] to stop, [?] for help>
+[DEBUG] 2023-06-18 10:39:30.902 [main] ConversionOutputAnalyzer - Input Line (7): <[libx264 @ 000002eff48af700] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512>
+[INFO ] 2023-06-18 10:39:30.903 [main] ConversionOutputAnalyzer - Unhandled message in step: 2 Line: 7 message: <[libx264 @ 000002eff48af700] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (8): <[libx264 @ 000002eff48af700] profile High 4:4:4 Predictive, level 4.0, 4:4:4, 8-bit>
+[INFO ] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Unhandled message in step: 2 Line: 8 message: <[libx264 @ 000002eff48af700] profile High 4:4:4 Predictive, level 4.0, 4:4:4, 8-bit>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (9): <[libx264 @ 000002eff48af700] 264 - core 164 r3075 66a5bc1 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=4 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00>
+[INFO ] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Unhandled message in step: 2 Line: 9 message: <[libx264 @ 000002eff48af700] 264 - core 164 r3075 66a5bc1 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=4 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (10): <Output #0, mp4, to 'C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\allure-results\videos\1687073970622_tearDown_recording_2023_18_06_10_39_30.mp4':>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (11): <  Metadata:>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (12): <    encoder         : Lavf58.76.100>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (13): <  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv444p(tv, progressive), 1536x864, q=2-31, 24 fps, 12288 tbn>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (14): <    Metadata:>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (15): <      encoder         : Lavc58.134.100 libx264>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (16): <    Side data:>
+[DEBUG] 2023-06-18 10:39:30.906 [main] ConversionOutputAnalyzer - Input Line (17): <      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A>
+[DEBUG] 2023-06-18 10:39:30.909 [main] ConversionOutputAnalyzer - Input Line (18): <frame=    1 fps=0.0 q=0.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    >
+[DEBUG] 2023-06-18 10:39:31.398 [main] ConversionOutputAnalyzer - Input Line (19): <frame=   87 fps=0.0 q=28.0 size=       0kB time=00:00:01.16 bitrate=   0.3kbits/s dup=75 drop=0 speed=2.29x    >
+[DEBUG] 2023-06-18 10:39:32.021 [main] ConversionOutputAnalyzer - Input Line (20): <frame=  176 fps=157 q=28.0 size=       0kB time=00:00:04.87 bitrate=   0.1kbits/s dup=131 drop=0 speed=4.36x    >
+[DEBUG] 2023-06-18 10:39:32.508 [main] ConversionOutputAnalyzer - Input Line (21): <frame=  223 fps=138 q=28.0 size=       0kB time=00:00:06.83 bitrate=   0.1kbits/s dup=162 drop=0 speed=4.22x    >
+[DEBUG] 2023-06-18 10:39:33.043 [main] ConversionOutputAnalyzer - Input Line (22): <frame=  271 fps=127 q=28.0 size=       0kB time=00:00:08.83 bitrate=   0.0kbits/s dup=195 drop=0 speed=4.12x    >
+[DEBUG] 2023-06-18 10:39:33.538 [main] ConversionOutputAnalyzer - Input Line (23): <frame=  317 fps=120 q=28.0 size=     256kB time=00:00:10.75 bitrate= 195.1kbits/s dup=220 drop=0 speed=4.06x    >
+[DEBUG] 2023-06-18 10:39:34.043 [main] ConversionOutputAnalyzer - Input Line (24): <frame=  382 fps=121 q=28.0 size=     512kB time=00:00:13.45 bitrate= 311.7kbits/s dup=259 drop=0 speed=4.27x    >
+[DEBUG] 2023-06-18 10:39:34.544 [main] ConversionOutputAnalyzer - Input Line (25): <frame=  441 fps=121 q=28.0 size=     512kB time=00:00:15.91 bitrate= 263.5kbits/s dup=296 drop=0 speed=4.35x    >
+[DEBUG] 2023-06-18 10:39:35.083 [main] ConversionOutputAnalyzer - Input Line (26): <frame=  502 fps=120 q=28.0 size=     512kB time=00:00:18.45 bitrate= 227.3kbits/s dup=334 drop=0 speed= 4.4x    >
+[DEBUG] 2023-06-18 10:39:35.596 [main] ConversionOutputAnalyzer - Input Line (27): <frame=  572 fps=122 q=28.0 size=     768kB time=00:00:21.37 bitrate= 294.4kbits/s dup=376 drop=0 speed=4.55x    >
+[DEBUG] 2023-06-18 10:39:36.086 [main] ConversionOutputAnalyzer - Input Line (28): <frame=  633 fps=122 q=28.0 size=     768kB time=00:00:23.91 bitrate= 263.1kbits/s dup=417 drop=0 speed= 4.6x    >
+[DEBUG] 2023-06-18 10:39:36.587 [main] ConversionOutputAnalyzer - Input Line (29): <frame=  693 fps=122 q=28.0 size=     768kB time=00:00:26.41 bitrate= 238.2kbits/s dup=450 drop=0 speed=4.64x    >
+[DEBUG] 2023-06-18 10:39:37.104 [main] ConversionOutputAnalyzer - Input Line (30): <frame=  733 fps=118 q=28.0 size=     768kB time=00:00:28.08 bitrate= 224.0kbits/s dup=470 drop=0 speed=4.53x    >
+[DEBUG] 2023-06-18 10:39:37.612 [main] ConversionOutputAnalyzer - Input Line (31): <frame=  753 fps=112 q=28.0 size=     768kB time=00:00:28.91 bitrate= 217.6kbits/s dup=472 drop=0 speed=4.31x    >
+[DEBUG] 2023-06-18 10:39:38.167 [main] ConversionOutputAnalyzer - Input Line (32): <frame=  771 fps=106 q=28.0 size=     768kB time=00:00:29.66 bitrate= 212.1kbits/s dup=483 drop=0 speed=4.08x    >
+[DEBUG] 2023-06-18 10:39:38.694 [main] ConversionOutputAnalyzer - Input Line (33): <frame=  837 fps=107 q=28.0 size=    1024kB time=00:00:32.41 bitrate= 258.8kbits/s dup=508 drop=0 speed=4.16x    >
+[DEBUG] 2023-06-18 10:39:39.218 [main] ConversionOutputAnalyzer - Input Line (34): <frame=  902 fps=108 q=28.0 size=    1024kB time=00:00:35.12 bitrate= 238.8kbits/s dup=542 drop=0 speed=4.22x    >
+[DEBUG] 2023-06-18 10:39:39.854 [main] ConversionOutputAnalyzer - Input Line (35): <frame=  983 fps=110 q=28.0 size=    1024kB time=00:00:38.50 bitrate= 217.9kbits/s dup=586 drop=0 speed= 4.3x    >
+[DEBUG] 2023-06-18 10:39:40.590 [main] ConversionOutputAnalyzer - Input Line (36): <[mp4 @ 000002eff48ada40] Starting second pass: moving the moov atom to the beginning of the file>
+[INFO ] 2023-06-18 10:39:40.590 [main] ConversionOutputAnalyzer - Unhandled message in step: 3 Line: 36 message: <[mp4 @ 000002eff48ada40] Starting second pass: moving the moov atom to the beginning of the file>
+[DEBUG] 2023-06-18 10:39:40.591 [main] ConversionOutputAnalyzer - Input Line (37): <frame= 1054 fps=109 q=-1.0 Lsize=    1277kB time=00:00:43.79 bitrate= 238.9kbits/s dup=631 drop=0 speed=4.51x    >
+[DEBUG] 2023-06-18 10:39:40.591 [main] ConversionOutputAnalyzer - Input Line (38): <video:1264kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.037896%>
+[DEBUG] 2023-06-18 10:39:40.594 [main] ConversionOutputAnalyzer - Input Line (39): <[libx264 @ 000002eff48af700] frame I:6     Avg QP:14.12  size: 73258>
+[DEBUG] 2023-06-18 10:39:40.594 [main] ConversionOutputAnalyzer - Input Line (40): <[libx264 @ 000002eff48af700] frame P:272   Avg QP:17.58  size:  2779>
+[DEBUG] 2023-06-18 10:39:40.594 [main] ConversionOutputAnalyzer - Input Line (41): <[libx264 @ 000002eff48af700] frame B:776   Avg QP:20.78  size:   126>
+[DEBUG] 2023-06-18 10:39:40.594 [main] ConversionOutputAnalyzer - Input Line (42): <[libx264 @ 000002eff48af700] consecutive B-frames:  0.7%  2.3%  3.7% 93.4%>
+[DEBUG] 2023-06-18 10:39:40.594 [main] ConversionOutputAnalyzer - Input Line (43): <[libx264 @ 000002eff48af700] mb I  I16..4: 38.0% 38.2% 23.8%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (44): <[libx264 @ 000002eff48af700] mb P  I16..4:  1.8%  2.6%  0.9%  P16..4:  1.8%  0.3%  0.2%  0.0%  0.0%    skip:92.4%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (45): <[libx264 @ 000002eff48af700] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  1.4%  0.0%  0.0%  direct: 0.0%  skip:98.5%  L0:49.3% L1:50.1% BI: 0.6%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (46): <[libx264 @ 000002eff48af700] 8x8 transform intra:45.9% inter:62.0%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (47): <[libx264 @ 000002eff48af700] coded y,u,v intra: 17.3% 6.9% 5.2% inter: 0.2% 0.1% 0.0%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (48): <[libx264 @ 000002eff48af700] i16 v,h,dc,p: 52% 47%  1%  1%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (49): <[libx264 @ 000002eff48af700] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 18% 38%  2%  2%  1%  2%  1%  2%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (50): <[libx264 @ 000002eff48af700] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 31% 35% 12%  3%  4%  3%  4%  2%  4%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (51): <[libx264 @ 000002eff48af700] Weighted P-Frames: Y:2.2% UV:1.8%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (52): <[libx264 @ 000002eff48af700] ref P L0: 62.6%  5.1% 27.3%  4.7%  0.5%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (53): <[libx264 @ 000002eff48af700] ref B L0: 58.8% 39.9%  1.3%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (54): <[libx264 @ 000002eff48af700] ref B L1: 97.3%  2.7%>
+[DEBUG] 2023-06-18 10:39:40.595 [main] ConversionOutputAnalyzer - Input Line (55): <[libx264 @ 000002eff48af700] kb/s:235.62>
+[INFO ] 2023-06-18 10:39:40.665 [main] ReportManager - Successfully created attachment 'Video Recording - tearDown'
+[WARN ] 2023-06-18 10:39:40.670 [Exec Stream Pumper] ReportManager - [1687073980.670][WARNING]: Unable to evaluate script: no such window: target window already closed
+[WARN ] 2023-06-18 10:39:40.670 [Exec Stream Pumper] ReportManager - from unknown error: web view not found
+[INFO ] 2023-06-18 10:39:40.785 [main] ReportManager - Successfully created attachment 'Selenium WebDriver Logs - performance'
+[WARN ] 2023-06-18 10:39:40.787 [Exec Stream Pumper] ReportManager - [1687073980.787][WARNING]: Unable to evaluate script: no such window: target window already closed
+[WARN ] 2023-06-18 10:39:40.787 [Exec Stream Pumper] ReportManager - from unknown error: web view not found
+[INFO ] 2023-06-18 10:39:40.790 [main] ReportManager - Successfully created attachment 'Selenium WebDriver Logs - browser'
+[WARN ] 2023-06-18 10:39:40.791 [Exec Stream Pumper] ReportManager - [1687073980.792][WARNING]: Unable to evaluate script: no such window: target window already closed
+[WARN ] 2023-06-18 10:39:40.792 [Exec Stream Pumper] ReportManager - from unknown error: web view not found
+[INFO ] 2023-06-18 10:39:41.481 [main] ReportManager - Successfully created attachment 'Selenium WebDriver Logs - driver'
+[DEBUG] 2023-06-18 10:39:44.865 [wdm-shutdown-hook] WebDriverManager - Quitting ChromeDriver: chrome on WINDOWS (d40cfb464b2eac48e39f32bab1756b73)
+[WARN ] 2023-06-18 10:39:45.489 [Exec Stream Pumper] ReportManager - [1687073985.489][WARNING]: Timed out connecting to Chrome, retrying...
+[WARN ] 2023-06-18 10:39:53.572 [Exec Stream Pumper] ReportManager - [1687073993.572][WARNING]: Timed out connecting to Chrome, retrying...
+[INFO ] 2023-06-18 10:39:57.695 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-06-18 10:39:57.696 [main] ReportManager - Driver is already closed.
+[ERROR] 2023-06-18 10:39:57.698 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2023-06-18 10:39:57.698 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: tearDown'
+[WARN ] 2023-06-18 10:39:57.696 [wdm-shutdown-hook] WebDriverManager - Exception closing ChromeDriver: chrome on WINDOWS (null) (Timed out waiting for driver server to stop.
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d40cfb464b2eac48e39f32bab1756b73, quit {}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\HESHAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54657}, networkConnectionEnabled: false, pageLoadStrategy: none, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54657/devtoo..., se:cdpVersion: 114.0.5735.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 30000, script: 30000}, unhandledPromptBehavior: accept and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true})
+org.openqa.selenium.WebDriverException: Timed out waiting for driver server to stop.
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d40cfb464b2eac48e39f32bab1756b73, quit {}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\HESHAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54657}, networkConnectionEnabled: false, pageLoadStrategy: none, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54657/devtoo..., se:cdpVersion: 114.0.5735.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 30000, script: 30000}, unhandledPromptBehavior: accept and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:148) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:445) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriver.quit(ChromiumDriver.java:279) ~[selenium-chromium-driver-4.9.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.quit(WebDriverManager.java:966) ~[webdrivermanager-5.3.3.jar:?]
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) [?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) [?:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.quit(WebDriverManager.java:919) [webdrivermanager-5.3.3.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager$1.run(WebDriverManager.java:1843) [webdrivermanager-5.3.3.jar:?]
+Caused by: java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.net.http.HttpClient.send(java.net.http.HttpRequest, java.net.http.HttpResponse$BodyHandler)" because "this.client" is null
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096) ~[?:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:144) ~[selenium-remote-driver-4.9.0.jar:?]
+	... 10 more
+Caused by: java.lang.NullPointerException: Cannot invoke "java.net.http.HttpClient.send(java.net.http.HttpRequest, java.net.http.HttpResponse$BodyHandler)" because "this.client" is null
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:299) ~[selenium-http-jdk-client-4.9.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183) ~[selenium-remote-driver-4.9.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$1(DriverCommandExecutor.java:121) ~[selenium-remote-driver-4.9.0.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]

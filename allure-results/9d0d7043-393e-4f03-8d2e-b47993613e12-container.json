@@ -1,0 +1,63 @@
+{
+  "uuid": "9d0d7043-393e-4f03-8d2e-b47993613e12",
+  "name": "SteeringCompanyPortal.AddNewCreationalPeriod.tearDown",
+  "children": [
+    "77f8da7a-5c8a-4cea-959e-4a675a01d173"
+  ],
+  "description": "",
+  "befores": [],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [
+        {
+          "name": "Successfully Closed Driver.",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1687073997696,
+          "stop": 1687073997696
+        },
+        {
+          "name": "Driver is already closed.",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1687073997696,
+          "stop": 1687073997696
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Video Recording - tearDown",
+          "source": "d1e345b4-c6ef-4dea-9e63-fc8ed30e5582-attachment.mp4",
+          "type": "video/mp4"
+        },
+        {
+          "name": "Selenium WebDriver Logs - performance",
+          "source": "e6c5bb22-df14-4ff1-8611-e12ecbda872c-attachment"
+        },
+        {
+          "name": "Selenium WebDriver Logs - browser",
+          "source": "097e60c2-3bc6-4450-ba86-e870cbdfe43b-attachment"
+        },
+        {
+          "name": "Selenium WebDriver Logs - driver",
+          "source": "16303b74-53a6-4f8b-a29b-b65960039c9b-attachment"
+        }
+      ],
+      "parameters": [],
+      "start": 1687073970621,
+      "stop": 1687073997696
+    }
+  ],
+  "start": 1687073970619,
+  "stop": 1687073997696
+}

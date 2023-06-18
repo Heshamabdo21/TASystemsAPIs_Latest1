@@ -1,0 +1,56 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "object",
+    "properties": {
+        "page": {
+            "type": "number"
+        },
+        "size": {
+            "type": "number"
+        },
+        "totalPages": {
+            "type": "number"
+        },
+        "totalElements": {
+            "type": "number"
+        },
+        "content": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "otaCode": {
+                        "type": "string"
+                    },
+                    "nameArabic": {
+                        "type": "string"
+                    },
+                    "nameEnglish": {
+                        "type": "string"
+                    },
+                    "isActive": {
+                        "type": "boolean"
+                    },
+                    "isEnable": {
+                        "type": "boolean"
+                    }
+                },
+                "required": [
+                    "otaCode",
+                    "nameArabic",
+                    "nameEnglish",
+                    "isActive",
+                    "isEnable"
+                ]
+            }
+        }
+    },
+    "required": [
+        "page",
+        "size",
+        "totalPages",
+        "totalElements",
+        "content"
+    ]
+}

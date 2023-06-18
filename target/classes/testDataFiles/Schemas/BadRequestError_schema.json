@@ -1,0 +1,31 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome6",
+    "definitions": {
+        "Welcome6": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "status": {
+                    "type": "integer"
+                },
+                "detail": {
+                    "type": "string"
+                },
+                "errors": {
+                    "type": "null"
+                }
+            },
+            "required": [
+                "detail",
+                "errors",
+                "status",
+                "title"
+            ],
+            "title": "Welcome6"
+        }
+    }
+}

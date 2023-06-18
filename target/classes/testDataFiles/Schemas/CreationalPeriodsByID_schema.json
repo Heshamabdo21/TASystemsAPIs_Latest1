@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome10",
+    "definitions": {
+        "Welcome10": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "startDate": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "endDate": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "status": {
+                    "type": "string"
+                },
+                "periodMaxQuotaPerPeriod": {
+                    "type": "number"
+                },
+                "periodProgramTemplates": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                }
+            },
+            "required": [
+                "endDate",
+                "id",
+                "periodMaxQuotaPerPeriod",
+                "periodProgramTemplates",
+                "startDate",
+                "status"
+            ],
+            "title": "Welcome10"
+        }
+    }
+}

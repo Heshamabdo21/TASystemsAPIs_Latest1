@@ -1,0 +1,89 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome4",
+    "definitions": {
+        "Welcome4": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "seasonType": {
+                    "type": "string"
+                },
+                "saleSystem": {
+                    "type": "string"
+                },
+                "programType": {
+                    "type": "string"
+                },
+                "programMechanism": {
+                    "type": "string"
+                },
+                "routeId": {
+                    "type": "integer"
+                },
+                "season": {
+                    "type": "integer"
+                },
+                "vehicleTypeId": {
+                    "type": "integer"
+                },
+                "vehicleCategoryId": {
+                    "type": "integer"
+                },
+                "minimumModelYear": {
+                    "type": "integer"
+                },
+                "maximumModelYear": {
+                    "type": "integer"
+                },
+                "minimumVehiclePricePer": {
+                    "type": "integer"
+                },
+                "minimumSeat": {
+                    "type": "integer"
+                },
+                "maximumSeat": {
+                    "type": "integer"
+                },
+                "templatePeriodStartDate": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "templatePeriodEndDate": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "templatePeriodMaximumQuota": {
+                    "type": "integer"
+                },
+                "isActive": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "id",
+                "isActive",
+                "maximumModelYear",
+                "maximumSeat",
+                "minimumModelYear",
+                "minimumSeat",
+                "minimumVehiclePricePer",
+                "programMechanism",
+                "programType",
+                "routeId",
+                "saleSystem",
+                "season",
+                "seasonType",
+                "templatePeriodEndDate",
+                "templatePeriodMaximumQuota",
+                "templatePeriodStartDate",
+                "vehicleCategoryId",
+                "vehicleTypeId"
+            ],
+            "title": "Welcome4"
+        }
+    }
+}

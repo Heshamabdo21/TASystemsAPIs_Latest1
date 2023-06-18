@@ -1,0 +1,11 @@
+{
+  "uuid": "5d16357c-7707-4eec-9cd4-192574d158bf",
+  "name": "SteeringCompanyPortal.AddNewCreationalPeriod",
+  "children": [
+    "77f8da7a-5c8a-4cea-959e-4a675a01d173"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1687073929137,
+  "stop": 1687073997703
+}

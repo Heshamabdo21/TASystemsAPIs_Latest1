@@ -1,0 +1,82 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome6",
+    "definitions": {
+        "Welcome6": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "page": {
+                    "type": "integer"
+                },
+                "size": {
+                    "type": "integer"
+                },
+                "totalPages": {
+                    "type": "integer"
+                },
+                "totalElements": {
+                    "type": "integer"
+                },
+                "content": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Content"
+                    }
+                }
+            },
+            "required": [
+                "content",
+                "page",
+                "size",
+                "totalElements",
+                "totalPages"
+            ],
+            "title": "Welcome6"
+        },
+        "Content": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "nameArabic": {
+                    "type": "string"
+                },
+                "nameEnglish": {
+                    "type": "string"
+                },
+                "cityId": {
+                    "type": "integer"
+                },
+                "isActive": {
+                    "type": "boolean"
+                },
+                "lastUpdated": {
+                    "anyOf": [
+                        {
+                            "type": "string",
+                            "format": "date-time"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ]
+                },
+                "sectors": {
+                    "type": "null"
+                }
+            },
+            "required": [
+                "id",
+                "isActive",
+                "lastUpdated",
+                "nameArabic",
+                "nameEnglish",
+                "sectors"
+            ],
+            "title": "Content"
+        }
+    }
+}

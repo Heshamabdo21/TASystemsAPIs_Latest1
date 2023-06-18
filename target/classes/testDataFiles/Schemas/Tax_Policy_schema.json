@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome8",
+    "definitions": {
+        "Welcome8": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "nameArabic": {
+                    "type": "string"
+                },
+                "nameEnglish": {
+                    "type": "string"
+                },
+                "descriptionArabic": {
+                    "type": "string"
+                },
+                "descriptionEnglish": {
+                    "type": "string"
+                },
+                "isActive": {
+                    "type": "boolean"
+                },
+                "chargeType": {
+                    "type": "string"
+                },
+                "chargeValue": {
+                    "type": "number"
+                }
+            },
+            "required": [
+                "chargeType",
+                "chargeValue",
+                "descriptionArabic",
+                "descriptionEnglish",
+                "id",
+                "isActive",
+                "nameArabic",
+                "nameEnglish"
+            ],
+            "title": "Welcome8"
+        }
+    }
+}
