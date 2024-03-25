@@ -4,18 +4,178 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ea4ab0-782a-47bc-a9ba-17de70978ed1" name="Changes" comment="Test latest&#10;&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;">
-      <change afterPath="$PROJECT_DIR$/allure-results/environment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/org.testng.ITestNGListener" afterDir="false" />
+    <list default="true" id="90ea4ab0-782a-47bc-a9ba-17de70978ed1" name="Changes" comment="Test latest&#10;18_jun_2023_fix&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/allure-results/06441351-03b5-4e23-82e1-f6a09f3c1dfa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0970b693-c978-4d68-9d1b-6ec39ad3c799-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/09dc246d-9c15-47fc-b2c3-06aeed1f12b9-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b8a38de-2f79-46ae-9cf3-993b51402b6c-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1902a1c5-7224-42b5-bdf0-bca9defc0b11-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1bc38e99-dab0-4dc9-804e-a4f08b0ecef9-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/243f4cf0-320d-4924-9e51-88a26ef3563f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42580394-45d2-4175-990f-aa3da3a9e47c-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42abc714-2c32-4ff3-a6be-1620ced2a806-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4726db5b-5549-4885-8906-8f5f0e15c5f4-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50cc358e-f39a-44ae-8cd4-b545c9d6ee68-attachment.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/513364ce-0b58-40e6-90b3-efce9f4a6d84-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ad0ceff-2904-4897-ab7e-a94a85b75319-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c48ae04-1a61-4594-b313-ad4e9fc3bc7d-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c5866b2-0301-4041-a1f8-c55136927b45-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5dd67f03-62ca-409a-8ba3-6d4a5cd67756-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/610c1420-d5b8-44de-b79a-7168b342d7f6-attachment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/613518e2-1ccc-4740-af75-e02d8e66dfac-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6cebe5d3-10f8-464f-91c8-6f19b82fead9-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a02e948-4c5b-4e42-abed-bf197a67676c-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/852b3c42-2da9-482a-ac04-b1e2ff58c989-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8669e9a8-8be8-4a3a-8649-d4182e79ce2d-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86b61793-4de8-4d6c-b8a3-e25662fe0b66-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ae92681-4c80-4ad3-a90a-8450f6f38e67-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a3b36751-7ad6-4d6e-a9c5-a91e3dd8ed50-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a98e4567-d0cf-40bb-bbb4-7a13eb7fd26a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ae64aa3b-0161-4bb1-a5ff-c2d8961ccd15-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b07a6cdf-9a39-40e6-b177-37c5d4ba0e78-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b18f1869-862a-4570-911c-d6652a939f1c-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b326dd99-9a6e-44fe-a8ba-811c8a012246-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bad9a627-5230-49af-891d-ac2ebe9daa1d-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bafb98c3-ed48-419e-b184-ce26e89c1502-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd9ab2ad-61bc-448e-a97d-2db45a25566d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bdc01d1a-a1ad-4be3-88ad-79dac96dc68e-attachment.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb596227-a92f-44e8-9f6a-aeea3b950869-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce55f4b1-30c2-476a-becc-527506476fa6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc658062-9b56-4e4d-8ef5-edf1bd1b1672-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dca72367-08e8-4103-9394-45790387fac1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/screenshots/20230618-114304/1687077785251_setUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/videos/1687077908499_tearDown_recording_2023_18_06_11_45_08.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/videos/1687077908499_tearDown_recording_2023_18_06_11_45_08.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execution-summary/ExecutionSummaryReport_18-06-2023_11-45-34-0776-AM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extent-reports/ExtentReports_18-06-2023_11-42-53-0355-AM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/ExecutionPlatform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/JiraXRay.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/MobileCapabilities.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/PlatformFlags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/Reporting.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/Timeouts.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/VisualValidations.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/WebCapabilities.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_allure_report.bat" beforeDir="false" afterPath="$PROJECT_DIR$/generate_allure_report.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/097e60c2-3bc6-4450-ba86-e870cbdfe43b-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/15b1af4a-c34c-4e08-be76-ee82b63ee8ed-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/16303b74-53a6-4f8b-a29b-b65960039c9b-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3618d144-2faf-431f-b05b-05cd55c6efc1-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/36775132-6c26-44c2-bb57-777cceb2d528-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3a6b2ae3-e53e-4f4a-8355-953491c0d34a-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4006c9c5-957d-4d11-8496-562e336837c6-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4a98e81e-ffcc-4238-88e1-3192e034d1ce-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4b164b61-6309-4db6-8f53-7c9260c8db27-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4da36132-ffb4-4a94-980c-3018fe1bc3bd-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4f9a4a4b-e545-4ecb-82ac-b2b5e4532a99-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/54e4ff5c-f4a2-4087-928c-a7fefaa5218a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/55f9add5-620e-4fea-8465-a3b6a6ce5874-attachment.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5d16357c-7707-4eec-9cd4-192574d158bf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5fad288c-33e1-4f41-b3c5-01b107c52bea-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6240c67c-4012-4270-8af1-db1d508ac44b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/627fd8f2-2835-4384-9339-f70271699cee-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6c84927e-0d93-4ede-bc6b-ffa63a8921f3-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/737803e8-3b44-425e-b464-087d0c57ca5f-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/77f8da7a-5c8a-4cea-959e-4a675a01d173-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7f435914-6c68-411f-b25d-b840a502d9cd-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9d0d7043-393e-4f03-8d2e-b47993613e12-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9ed21d9e-1082-456d-9084-a02be7d53d0f-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a146e9c1-6e2f-4dfc-8a0b-f4a089abf28a-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a205c062-ac87-4a5e-8e25-094ca74c318e-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b0bf5c9f-3b79-4865-bf11-a016be7e6d44-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b6086624-daba-4c0c-8291-26b650e369cb-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c518c243-c670-4fb4-8596-7fb96b61fee8-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d1e345b4-c6ef-4dea-9e63-fc8ed30e5582-attachment.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e35649bb-1578-4550-a8fc-e9900d2d717f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e6c5bb22-df14-4ff1-8611-e12ecbda872c-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ecaf4c4c-7794-416c-8814-f4ae7ae2010a-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/environment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/environment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f9620f4a-9757-465d-a822-a2ce386d4998-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/screenshots/20230618-103852/1687073932889_setUp.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/videos/1687073970622_tearDown_recording_2023_18_06_10_39_30.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/videos/1687073970622_tearDown_recording_2023_18_06_10_39_30.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utils/DateConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utils/DateConvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/default/TestNG.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/default/TestNG.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/default/cucumber.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/default/cucumber.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/default/customWebdriverCapabilities.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/default/customWebdriverCapabilities.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/default/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/default/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/ExecutionPlatform.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/ExecutionPlatform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/JiraXRay.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/JiraXRay.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/MobileCapabilities.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/MobileCapabilities.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/Reporting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/Reporting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/TestNG.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/TestNG.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/Timeouts.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/Timeouts.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/VisualValidations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/VisualValidations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/WebCapabilities.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/WebCapabilities.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/services/org.testng.ITestNGListener" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PostgresqlUtils/SteeringCompanyQry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/Commissions_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/CreationalPeriods_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/Lookups_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/PeriodProgramTemplates_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/PeriodPrograms_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/Policies_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/Reservations_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyAPIs/Token_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SteeringCompanyPortal/AddNewCreationalPeriod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestSuites/testSuite01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utils/DateConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utils/ExtraExcelFun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/ExecutionPlatform.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/ExecutionPlatform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/JiraXRay.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/JiraXRay.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/MobileCapabilities.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/MobileCapabilities.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/Reporting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/Reporting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/TestNG.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/TestNG.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/Timeouts.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/Timeouts.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/VisualValidations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/VisualValidations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/WebCapabilities.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/WebCapabilities.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Add_Commission_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/BadRequestError_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Cancel_Policy_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Commission_by_OTAid_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Commission_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/CreationalPeriodsByID_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/CreationalPeriods_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/General_Policy_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/GetAllPeriodProgram_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/GetAllPolicies_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/InvalidTokenRequest_Unauthorized_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_cities_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_hotels_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_policies_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_ports_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_routes_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_sectors_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_terminals_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_vehicleCategories_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Lookups_vehicleTypes_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/NotAcceptable_Response_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/NotFoundError_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/OTAs_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Payment_Policy_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/PeriodProgramTemplatesByID_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/PeriodProgramTemplates_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/PeriodProgram_with_policies_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/PeriodProgram_without_policies_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Reservations_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/ServerSideError_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Tax_Policy_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Token_Unauthorized_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Token_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/Usage_Policy_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/Schemas/ValidationError_schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testDataFiles/SteeringCompanyAPI_TestData/SteeringCompanyAPI_TestData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/log4j.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-06-18T10-15-11_996-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-06-18T10-15-11_996-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_Commissions_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_CreationalPeriod_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_Lookups_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_PeriodProgramTemplate_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_PeriodProgram_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_Policies_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_Reservation_Cases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SteeringCompanyAPI_TestCases/Test_Token_Cases.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,15 +221,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
+    <option name="enabledProfiles">
+      <list>
+        <option value="testng" />
+      </list>
     </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2O3kEIxoRTn56XWPXSMo9oMcjcZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,12 +254,12 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/eclipse-workspace/MyProjects/TASystemsAPIs_Latest&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/eclipse-workspace/MyProjects/TASystemsAPIs_Latest1/src/main/resources/properties/default&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.26666668&quot;,
     &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -104,6 +270,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\src\main\resources\properties\default" />
+      <recent name="C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest1\src\main\resources\properties" />
       <recent name="C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest\src\main\resources\properties" />
       <recent name="C:\eclipse-workspace\MyProjects\TASystemsAPIs_Latest\src\main\resources\properties\default" />
     </key>
@@ -128,6 +296,7 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
+            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -140,6 +309,9 @@
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$" />
@@ -154,6 +326,7 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
+            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -165,6 +338,9 @@
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$" />
@@ -433,10 +609,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AddNewCreationalPeriod.TestAddNewCreationalPeriod" />
         <item itemvalue="TestNG.Test_Token_Cases" />
-        <item itemvalue="TestNG.Test_PeriodProgram_Cases" />
         <item itemvalue="TestNG.Test_Reservation_Cases" />
+        <item itemvalue="TestNG.Test_PeriodProgram_Cases" />
+        <item itemvalue="TestNG.AddNewCreationalPeriod.TestAddNewCreationalPeriod" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +681,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682874476556</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test latest&#10;18_jun_2023_fix&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;">
+      <created>1687076670308</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687076670308</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test latest&#10;18_jun_2023_fix&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;">
+      <created>1687076703953</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687076703953</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -528,7 +718,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Test&#10;&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;" />
     <MESSAGE value="Test latest&#10;&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test latest&#10;&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;" />
+    <MESSAGE value="Test latest&#10;18_jun_2023_fix&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test latest&#10;18_jun_2023_fix&#10;Signed-off-by: Heshamabdo21 &lt;heshamabdo21@gmail.com&gt;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -538,32 +729,32 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java</url>
-          <line>146</line>
+          <line>145</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java</url>
-          <line>147</line>
+          <line>146</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java</url>
-          <line>145</line>
+          <line>144</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java</url>
-          <line>144</line>
+          <line>143</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java</url>
-          <line>157</line>
+          <line>156</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SteeringCompanyPortal/AddNewCreationalPeriod.java</url>
-          <line>156</line>
+          <line>155</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

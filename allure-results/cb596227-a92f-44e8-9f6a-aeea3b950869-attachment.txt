@@ -1,0 +1,114 @@
+[ReportManager] Setting discrete logging to: 'false' @18-06-2023 11:43:06.0458 AM
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                             Test Method: 'SteeringCompanyPortal.AddNewCreationalPeriod.TestAddNewCreationalPeriod'                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Setting discrete logging to: 'false' @18-06-2023 11:43:06.0460 AM
+[ReportManager] Target URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml" @18-06-2023 11:43:06.0501 AM
+[ReportManager] Initial URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml;jsessionid=BFZ5zTH9I3-5l-zj-dPBanFTUpW3qZJ9COX72RLF.ticportal-site-6b44b54b5d-vnbvz?dswid=8948" @18-06-2023 11:43:06.0549 AM
+[ReportManager] Navigate to url "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml". @18-06-2023 11:43:07.0927 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:08.0820 AM
+[ReportManager] Click "تسجيل الدخول". @18-06-2023 11:43:08.0882 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.id: loginForm:j_username", isExpectedToBeVisible"true"... @18-06-2023 11:43:10.0358 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_username)" against "By.id: loginForm:j_username". @18-06-2023 11:43:10.0807 AM
+[ReportManager] Type "1199900000" into "By.id: loginForm:j_username". @18-06-2023 11:43:11.0795 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.id: loginForm:j_password", isExpectedToBeVisible"true"... @18-06-2023 11:43:11.0818 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.id: loginForm:j_password)" against "By.id: loginForm:j_password". @18-06-2023 11:43:12.0341 AM
+[ReportManager] Type "123" into "By.id: loginForm:j_password". @18-06-2023 11:43:12.0951 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span", isExpectedToBeVisible"true"... @18-06-2023 11:43:12.0985 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@id='loginForm:rememberme']/div[2]/span)" against "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span". @18-06-2023 11:43:13.0461 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:14.0073 AM
+[ReportManager] Click "By.xpath: //div[@id='loginForm:rememberme']/div[2]/span". @18-06-2023 11:43:14.0125 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //*[@id='loginForm']//button[1]", isExpectedToBeVisible"true"... @18-06-2023 11:43:14.0149 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //*[@id='loginForm']//button[1])" against "دخول". @18-06-2023 11:43:14.0620 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:15.0159 AM
+[ReportManager] Click "دخول". @18-06-2023 11:43:15.0213 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //div[@id='loginForm:auth-panel']//input", isExpectedToBeVisible"true"... @18-06-2023 11:43:15.0249 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@id='loginForm:auth-panel']//input)" against "By.xpath: //div[@id='loginForm:auth-panel']//input". @18-06-2023 11:43:16.0284 AM
+[ReportManager] Type "1" into "By.xpath: //div[@id='loginForm:auth-panel']//input". @18-06-2023 11:43:16.0933 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //*[@id='loginForm']//button[1]", isExpectedToBeVisible"true"... @18-06-2023 11:43:16.0961 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //*[@id='loginForm']//button[1])" against "دخول". @18-06-2023 11:43:17.0438 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:18.0040 AM
+[ReportManager] Click "دخول". @18-06-2023 11:43:18.0080 AM
+[ReportManager] Click and hold "By.xpath: //body/div[1]/div[1]/div[1]". @18-06-2023 11:43:22.0056 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:23.0177 AM
+[ReportManager] Click "Toggle Menu". @18-06-2023 11:43:23.0214 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:23.0852 AM
+[ReportManager] Click "By.xpath: //*[@class='layout-menu']/li[5]/a/span[1]". @18-06-2023 11:43:23.0902 AM
+[ReportManager] Scroll to element "By.xpath: //*[@class='layout-menu']/li[5]/ul[@role='menu']/li[1]/a/span[1]". @18-06-2023 11:43:24.0598 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:25.0116 AM
+[ReportManager] Click "By.xpath: //*[@class='layout-menu']/li[5]/ul[@role='menu']/li[1]/a/span[1]". @18-06-2023 11:43:25.0160 AM
+[ReportManager] Scroll to element "By.xpath: //ul/li[5]/ul/li[1]/ul/li[8]//span[1]". @18-06-2023 11:43:25.0670 AM
+[ReportManager] Performed Click using JavaScript with exit result "null". @18-06-2023 11:43:26.0144 AM
+[ReportManager] If the report is showing that the click passed but you observe that no action was taken, we recommend trying a different element locator. @18-06-2023 11:43:26.0145 AM
+[ReportManager] Click "By.xpath: //ul/li[5]/ul/li[1]/ul/li[8]//span[1]". @18-06-2023 11:43:26.0146 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:27.0866 AM
+[ReportManager] Click "By.xpath: //*[@id='primetable_data']/tr[last()]/td[last()]//span[2]". @18-06-2023 11:43:27.0923 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //div[20]/ul/li[2]/a/span", isExpectedToBeVisible"true"... @18-06-2023 11:43:27.0966 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[20]/ul/li[2]/a/span)" against "By.xpath: //div[20]/ul/li[2]/a/span". @18-06-2023 11:43:28.0473 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:29.0066 AM
+[ReportManager] Click "By.xpath: //div[20]/ul/li[2]/a/span". @18-06-2023 11:43:29.0117 AM
+[ReportManager] Scroll to element "14/11/1444". @18-06-2023 11:43:31.0974 AM
+[ReportManager] Get text "14/11/1444" from "14/11/1444". @18-06-2023 11:43:32.0447 AM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //tr/th[last()]//button", isExpectedToBeVisible"true"... @18-06-2023 11:43:32.0483 AM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //tr/th[last()]//button)" against " اضافة فترة زمنية". @18-06-2023 11:43:32.0967 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:33.0709 AM
+[ReportManager] Performed Click using JavaScript with exit result "null". @18-06-2023 11:43:34.0779 AM
+[ReportManager] If the report is showing that the click passed but you observe that no action was taken, we recommend trying a different element locator. @18-06-2023 11:43:34.0780 AM
+[ReportManager] Click " اضافة فترة زمنية". @18-06-2023 11:43:34.0780 AM
+[ReportManager] Type "فترة تشغيل جديدة" into "إسم الفترة". @18-06-2023 11:43:38.0404 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:39.0064 AM
+[ReportManager] Click "تاريخ بداية الفترة الزمنية للبرامج *". @18-06-2023 11:43:39.0136 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:39.0775 AM
+[ReportManager] Click "عرض شهر آخر". @18-06-2023 11:43:39.0840 AM
+[ReportManager] Select "12/1444" from "عرض شهر آخر". @18-06-2023 11:43:40.0796 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:41.0427 AM
+[ReportManager] Click "1". @18-06-2023 11:43:41.0480 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:42.0093 AM
+[ReportManager] Click "تاريخ نهاية الفترة الزمنية للبرامج *". @18-06-2023 11:43:42.0144 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:42.0722 AM
+[ReportManager] Click "عرض شهر آخر". @18-06-2023 11:43:42.0779 AM
+[ReportManager] Select "12/1444" from "عرض شهر آخر". @18-06-2023 11:43:43.0784 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:44.0602 AM
+[ReportManager] Click "2". @18-06-2023 11:43:44.0647 AM
+[ReportManager] Type "10" into "القيمة*". @18-06-2023 11:43:45.0487 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:46.0146 AM
+[ReportManager] Click "اضافة خصائص للفترة". @18-06-2023 11:43:46.0192 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:47.0452 AM
+[ReportManager] Click "By.id: rmmId_label". @18-06-2023 11:43:47.0506 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:48.0178 AM
+[ReportManager] Click "جدة - مكة - مدينة - مطار المدينة مع الحجر المؤسسي". @18-06-2023 11:43:48.0234 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:48.0981 AM
+[ReportManager] Click "By.id: busType_label". @18-06-2023 11:43:49.0025 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:49.0719 AM
+[ReportManager] Click "فان". @18-06-2023 11:43:49.0760 AM
+[ReportManager] Scroll to element "الحد الادنى لسعر المركبة*". @18-06-2023 11:43:50.0306 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:50.0889 AM
+[ReportManager] Click "By.xpath: //*[@id='category']/div[1]/div[1]/div/div[2]". @18-06-2023 11:43:50.0936 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:51.0595 AM
+[ReportManager] Click "By.xpath: //*[@id='category']/div[1]/div[2]/div/div[2]". @18-06-2023 11:43:51.0642 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:52.0336 AM
+[ReportManager] Click "By.xpath: //*[@id='category']/div[2]/div/div/div[2]". @18-06-2023 11:43:52.0375 AM
+[ReportManager] Scroll to element "الحد الادنى لسعر المركبة*". @18-06-2023 11:43:52.0985 AM
+[ReportManager] Type "9" into "اقل عدد مقاعد*". @18-06-2023 11:43:53.0819 AM
+[ReportManager] Type "11" into "اكبر عدد مقاعد*". @18-06-2023 11:43:54.0601 AM
+[ReportManager] Type "1200" into "الحد الادنى لسعر المركبة*". @18-06-2023 11:43:55.0420 AM
+[ReportManager] Scroll to element "حفظ". @18-06-2023 11:43:55.0974 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:43:56.0475 AM
+[ReportManager] Click "اضافة". @18-06-2023 11:43:56.0520 AM
+[ReportManager] Scroll to element "By.xpath: //*[@id='period-creation-table_data']/tr[last()-1]". @18-06-2023 11:44:05.0269 AM
+[ReportManager] Moved the mouse to the middle of the element. @18-06-2023 11:44:05.0900 AM
+[ReportManager] Performed Click using JavaScript with exit result "null". @18-06-2023 11:44:06.0979 AM
+[ReportManager] If the report is showing that the click passed but you observe that no action was taken, we recommend trying a different element locator. @18-06-2023 11:44:06.0980 AM
+[ReportManager] Click " الاجراءات". @18-06-2023 11:44:06.0981 AM
+[ReportManager] Performed Click using JavaScript with exit result "null". @18-06-2023 11:44:07.0450 AM
+[ReportManager] If the report is showing that the click passed but you observe that no action was taken, we recommend trying a different element locator. @18-06-2023 11:44:07.0451 AM
+[ReportManager] Click "By.xpath: //*[@class='ui-menu ui-menu-dynamic ui-widget ui-widget-content ui-corner-all ui-helper-clearfix ui-shadow'][last()]/ul/li[2]/a/span". @18-06-2023 11:44:07.0452 AM
+[ReportManager] Expected condition failed: waiting for com.shaft.gui.element.internal.ElementActionsHelper$$Lambda$921/0x000000080131e000@45980d (tried for 60 second(s) with 100 milliseconds interval) || no such element: Unable to locate element: {"method":"css selector","selector":"#invStartDate"} @18-06-2023 11:45:07.0934 AM
+[ReportManager] Failed to Click "By.id: invStartDate". Root cause: "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#invStartDate"}" @18-06-2023 11:45:08.0416 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1687077908285_TestAddNewCreationalPeriod_Click_failed' @18-06-2023 11:45:08.0432 AM
+[ReportManager] Successfully created attachment 'Element Action Exception - Click - Stacktrace' @18-06-2023 11:45:08.0435 AM
+[ReportManager] Successfully created attachment 'Animated Gif - TestAddNewCreationalPeriod' @18-06-2023 11:45:08.0458 AM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setUp' @18-06-2023 11:45:08.0461 AM

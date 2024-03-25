@@ -1,4 +1,0 @@
-[ReportManager] Target URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml" @18-06-2023 10:38:49.0387 AM
-[ReportManager] Initial URL: "data:," @18-06-2023 10:38:49.0437 AM
-[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230618-103852", Target File: "\1687073932889_setUp.gif"". @18-06-2023 10:38:53.0074 AM
-[ReportManager] Navigate to url "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml". @18-06-2023 10:38:53.0596 AM

@@ -1,0 +1,5 @@
+[ReportManager] Target URL: "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml" @18-06-2023 11:42:58.0276 AM
+[ReportManager] Initial URL: "data:," @18-06-2023 11:42:58.0313 AM
+[ReportManager] File Action "CreateFile" successfully performed. With the following test data "Target Folder: "allure-results//screenshots/20230618-114304", Target File: "\1687077785251_setUp.gif"". @18-06-2023 11:43:05.0519 AM
+[ReportManager] Navigate to url "https://portal-demo.np.transporticonline.com/Naqaba/index.xhtml". @18-06-2023 11:43:06.0308 AM
+[ReportManager] Setting discrete logging to: 'false' @18-06-2023 11:43:06.0431 AM

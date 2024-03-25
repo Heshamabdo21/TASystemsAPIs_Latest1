@@ -5,29 +5,27 @@
 	<artifactId>TASystemsAPIs_latest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TASystemsAPIs_latest</name>
-	<description>This is a sample project .    </description>
+	<description>This is a project for TASystems (Steering Company API) .    </description>
 	<properties>
 
 		<!-- Make sure to star the project on github to get notified and update to the latest version: https://github.com/MohabMohie/SHAFT_ENGINE/releases -->
-		<shaft_engine.version>7.2.20230611</shaft_engine.version>
-		<!--	  <shaft_engine.version>7.2.20230408</shaft_engine.version>-->
+		<shaft_engine.version>7.3.20230929</shaft_engine.version>
+		<!--	  <shaft_engine.version>7.2.20230408*********7.2.20230611</shaft_engine.version>-->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<aspectjweaver.version>1.9.19</aspectjweaver.version>
+		<aspectjweaver.version>1.9.20.1</aspectjweaver.version>
 		<maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
 		<maven-resources-plugin.version>3.3.1</maven-resources-plugin.version>
 		<maven-surefire-plugin.version>3.1.2</maven-surefire-plugin.version>
 		<surefire-testng.version>3.1.2</surefire-testng.version>
-		<junit-jupiter-engine.version>5.9.3</junit-jupiter-engine.version>
-		<argLine>
-			-javaagent:${user.home}/.m2/repository/org/aspectj/aspectjweaver/${aspectjweaver.version}/aspectjweaver-${aspectjweaver.version}.jar
-		</argLine>
+		<junit-jupiter-engine.version>5.10.0</junit-jupiter-engine.version>
+
 	</properties>
 	<repositories>
-		<repository>
+<!--		<repository>
 			<id>automatest-artifactory</id>
 			<url>https://automatest.jfrog.io/artifactory/SHAFT_ENGINE</url>
-		</repository>
+		</repository>-->
 		<repository>
 			<id>central-2</id>
 			<url>https://repo.maven.apache.org/maven2</url>
@@ -122,6 +120,9 @@
 							<trimStackTrace>false</trimStackTrace>
 							<useFile>false</useFile>
 							<encoding>UTF-8</encoding>
+							<argLine>
+								-javaagent:${user.home}/.m2/repository/org/aspectj/aspectjweaver/${aspectjweaver.version}/aspectjweaver-${aspectjweaver.version}.jar
+							</argLine>
 							<properties>
 								<property>
 									<name>usedefaultlisteners</name>
@@ -173,6 +174,9 @@
 							<trimStackTrace>false</trimStackTrace>
 							<useFile>false</useFile>
 							<encoding>UTF-8</encoding>
+							<argLine>
+								-javaagent:${user.home}/.m2/repository/org/aspectj/aspectjweaver/${aspectjweaver.version}/aspectjweaver-${aspectjweaver.version}.jar
+							</argLine>
 							<properties>
 								<property>
 									<name>usedefaultlisteners</name>
